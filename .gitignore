@@ -1,0 +1,27 @@
+# Keil build outputs
+MDK-ARM/task2_motor/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+MDK-ARM/codex_build_check.txt
+
+# Common embedded build artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lnp
+*.dep
+*.sct
+*.build_log.htm
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
