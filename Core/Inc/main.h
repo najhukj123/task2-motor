@@ -65,6 +65,8 @@ void Error_Handler(void);
 #define ENC_KEY_Pin GPIO_PIN_12
 #define ENC_KEY_GPIO_Port GPIOB
 #define ENC_KEY_EXTI_IRQn EXTI15_10_IRQn
+#define MOTOR_PH_Pin GPIO_PIN_13
+#define MOTOR_PH_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
